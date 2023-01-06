@@ -192,3 +192,16 @@ li {
     background-color: orangered;
     transition: .3s;
 }
+footer {
+    height: 150px;
+    background: black;
+}
+footer .h2 {
+    padding-top: 15px;
+    color: orangered;
+}
+footer p{
+    color: #fff;
+    align-items: center;
+    font-size: 18px;
+}
