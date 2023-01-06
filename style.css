@@ -121,3 +121,38 @@ li {
 #yellow {
     background: rgba(238, 222, 169, 0.208);
 }
+/* section 3 styles */
+.section3 {
+    padding: 30px 250px;
+    margin-top: 25px;
+}
+.section3-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.img {
+    height: 400px;
+    width: 500px;
+}
+.section3p{
+    font-size: 20px;
+    text-align: left;
+    padding: 15px 0;
+
+}
+.h3{
+    text-align: left;
+    font-size: 40px;
+    font-weight: 700;
+}
+#div2 {
+    margin: 25px 0;
+    padding: 15px 0;
+}
+/* #div2 .h3{
+    text-align: right;
+    font-size: 40px;
+    font-weight: 700;
+} */
